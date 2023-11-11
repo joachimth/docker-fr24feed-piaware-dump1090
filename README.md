@@ -1,12 +1,17 @@
 # Fr24feed and FlightAware with dump1090 as a Docker image
 
-![Build status](https://github.com/Thom-x/docker-fr24feed-piaware-dump1090/workflows/Docker/badge.svg?branch=master)
-![GitHub issues](https://img.shields.io/github/issues/Thom-x/docker-fr24feed-piaware-dump1090)
+![Build status](https://github.com/joachimth/docker-fr24feed-piaware-dump1090/workflows/Docker/badge.svg?branch=master)
+![GitHub issues](https://img.shields.io/github/issues/joachimth/docker-fr24feed-piaware-dump1090)
 
-![Latest image version](https://img.shields.io/docker/v/thomx/fr24feed-piaware?sort=semver)
-![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/thomx/fr24feed-piaware)
+![Latest image version](https://img.shields.io/docker/v/joachimth/fr24feed-piaware?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/joachimth/fr24feed-piaware)
 
-![License](https://img.shields.io/github/license/Thom-x/docker-fr24feed-piaware-dump1090)
+![License](https://img.shields.io/github/license/joachimth/docker-fr24feed-piaware-dump1090)
+
+
+> This is my personal fork of this project.. https://hub.docker.com/r/joachimth/fr24feed-piaware
+
+
 
 > Please consider following this project's author, [Thom-x](https://github.com/Thom-x), and consider starring the project to show your ❤️ and support.
 
@@ -16,7 +21,7 @@ Feed FlightRadar24 and FlightAware, allow you to see the positions of aircrafts 
 
 ---
 
-![Image of dump1090 webapp](https://raw.githubusercontent.com/Thom-x/docker-fr24feed-piaware-dump1090/master/screenshot.png)
+![Image of dump1090 webapp](https://raw.githubusercontent.com/joachimth/docker-fr24feed-piaware-dump1090/master/screenshot.png)
 
 # Requirements
 
