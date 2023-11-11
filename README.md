@@ -8,6 +8,8 @@
 
 ![License](https://img.shields.io/github/license/joachimth/docker-fr24feed-piaware-dump1090)
 
+[![Docker](https://github.com/joachimth/docker-fr24feed-piaware-dump1090/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/joachimth/docker-fr24feed-piaware-dump1090/actions/workflows/docker-publish.yml)
+
 
 > This is my personal fork of this project.. https://hub.docker.com/r/joachimth/fr24feed-piaware
 
