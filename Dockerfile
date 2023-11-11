@@ -277,7 +277,8 @@ ENV SERVICE_ENABLE_ADSBHUB false
 ENV SYSTEM_HTTP_ULIMIT_N -1
 ENV SYSTEM_FR24FEED_ULIMIT_N -1
 
-LABEL maintainer="maugin.thomas@gmail.com"
+# This is only for this fork, that this is true:
+LABEL maintainer="joachim@thirsbro.dk"
 
 # COPY ALL
 COPY --from=copyall /copy_root/ /
